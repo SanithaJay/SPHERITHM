@@ -1,0 +1,47 @@
+﻿# .NET
+**/bin/
+**/obj/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Scientific data
+*.fits
+*.fit
+*.fits.gz
+*.fits.fz
+data/raw/
+data/processed/
+data/cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE and operating system
+.vs/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Project preparation files
+complete-readme.ps1
+README.before-completion.md
