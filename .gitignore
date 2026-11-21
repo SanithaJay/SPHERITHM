@@ -45,3 +45,7 @@ Thumbs.db
 # Project preparation files
 complete-readme.ps1
 README.before-completion.md
+
+# Visual Studio user-specific files
+*.csproj.user
+*.suo

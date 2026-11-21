@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../../tests/unit/Spherithm.Application.Tests/Spherithm.Application.Tests.csproj" />
+  <Project Path="../../tests/unit/Spherithm.Domain.Tests/Spherithm.Domain.Tests.csproj" />
+  <Project Path="Spherithm.Api/Spherithm.Api.csproj" />
+  <Project Path="Spherithm.Application/Spherithm.Application.csproj" />
+  <Project Path="Spherithm.Contracts/Spherithm.Contracts.csproj" />
+  <Project Path="Spherithm.Domain/Spherithm.Domain.csproj" />
+  <Project Path="Spherithm.Infrastructure/Spherithm.Infrastructure.csproj" />
+</Solution>
